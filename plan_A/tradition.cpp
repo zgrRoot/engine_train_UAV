@@ -1,3 +1,4 @@
+//传统特征识别
 #include"fly.h"
 void position::preprocessing(Mat& src) {
 	Mat srcImage;
