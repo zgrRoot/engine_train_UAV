@@ -1,4 +1,5 @@
 /*
+//KNN
 #include<iostream>
 #include<opencv2/ml/ml.hpp>
 #include<highgui/highgui.hpp>
