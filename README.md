@@ -34,7 +34,7 @@ Opencv实现视觉识别
 <div align=center>** 地图 **</div>  
 
 <div align=center>
-<img src="https://github.com/zgrRoot/enginetrain_uav/raw/master/map.png" width = "600" alt="地图"/>
+<img src="https://github.com/zgrRoot/enginetrain_uav/blob/10c9f7a587462ad5896c7b20467befdb6648c4d4/map.png" width = "600" alt="地图"/>
 </div>  
 
 ---
